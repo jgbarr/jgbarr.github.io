@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction
+title: jgbarr TIL
 ---
 
 Simple TIL site 
