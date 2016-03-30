@@ -14,4 +14,5 @@ To redirect from https to http (thought the reasons for wanting to do so may be 
     server_name ~^(www\.)?example\.com$;
     return 301 http://$http_host$request_uri;
   }
+
 -----
